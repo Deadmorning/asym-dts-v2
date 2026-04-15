@@ -1,0 +1,278 @@
+{
+  "上证50ETF": {
+    "old": {
+      "same": 0.75,
+      "rev": 0.6
+    },
+    "best_asym": {
+      "same": 1.5,
+      "rev": 2.5,
+      "metrics": {
+        "alpha": 7.922,
+        "total_r": 17.783,
+        "sharpe": 0.6,
+        "mdd": -12.114,
+        "n_trades": 30,
+        "long_pct": 31.9
+      }
+    },
+    "best_asym_c": {
+      "same": 1.5,
+      "rev": 2.5,
+      "metrics": {
+        "alpha": 6.14,
+        "total_r": 16.002,
+        "sharpe": 0.553,
+        "mdd": -11.291,
+        "n_trades": 18,
+        "long_pct": 30.2
+      }
+    },
+    "old_asym_metrics": {
+      "alpha": -1.016,
+      "total_r": 8.846,
+      "sharpe": 0.366,
+      "mdd": -19.677,
+      "n_trades": 46,
+      "long_pct": 31.9
+    },
+    "old_asym_c_metrics": {
+      "alpha": 0.744,
+      "total_r": 10.605,
+      "sharpe": 0.43,
+      "mdd": -19.213,
+      "n_trades": 36,
+      "long_pct": 30.3
+    }
+  },
+  "沪深300ETF": {
+    "old": {
+      "same": 2.5,
+      "rev": 2.0
+    },
+    "best_asym": {
+      "same": 2.5,
+      "rev": 2.5,
+      "metrics": {
+        "alpha": 2.792,
+        "total_r": 16.037,
+        "sharpe": 0.576,
+        "mdd": -8.84,
+        "n_trades": 32,
+        "long_pct": 8.8
+      }
+    },
+    "best_asym_c": {
+      "same": 2.5,
+      "rev": 2.5,
+      "metrics": {
+        "alpha": -0.621,
+        "total_r": 12.624,
+        "sharpe": 0.486,
+        "mdd": -9.394,
+        "n_trades": 8,
+        "long_pct": 5.5
+      }
+    },
+    "old_asym_metrics": {
+      "alpha": 2.679,
+      "total_r": 15.923,
+      "sharpe": 0.571,
+      "mdd": -8.84,
+      "n_trades": 32,
+      "long_pct": 9.4
+    },
+    "old_asym_c_metrics": {
+      "alpha": -1.616,
+      "total_r": 11.629,
+      "sharpe": 0.451,
+      "mdd": -9.394,
+      "n_trades": 9,
+      "long_pct": 6.2
+    }
+  },
+  "中证500ETF": {
+    "old": {
+      "same": 2.5,
+      "rev": 2.0
+    },
+    "best_asym": {
+      "same": 2.5,
+      "rev": 2.5,
+      "metrics": {
+        "alpha": 21.435,
+        "total_r": 46.759,
+        "sharpe": 0.965,
+        "mdd": -13.384,
+        "n_trades": 31,
+        "long_pct": 33.7
+      }
+    },
+    "best_asym_c": {
+      "same": 2.5,
+      "rev": 2.5,
+      "metrics": {
+        "alpha": 21.469,
+        "total_r": 46.794,
+        "sharpe": 0.971,
+        "mdd": -11.352,
+        "n_trades": 20,
+        "long_pct": 32.0
+      }
+    },
+    "old_asym_metrics": {
+      "alpha": -2.049,
+      "total_r": 23.275,
+      "sharpe": 0.627,
+      "mdd": -12.557,
+      "n_trades": 33,
+      "long_pct": 24.3
+    },
+    "old_asym_c_metrics": {
+      "alpha": 0.605,
+      "total_r": 25.929,
+      "sharpe": 0.696,
+      "mdd": -11.047,
+      "n_trades": 16,
+      "long_pct": 21.8
+    }
+  },
+  "科创50ETF": {
+    "old": {
+      "same": 2.5,
+      "rev": 1.5
+    },
+    "best_asym": {
+      "same": 2.5,
+      "rev": 1.5,
+      "metrics": {
+        "alpha": 3.896,
+        "total_r": 27.244,
+        "sharpe": 0.513,
+        "mdd": -12.912,
+        "n_trades": 39,
+        "long_pct": 17.7
+      }
+    },
+    "best_asym_c": {
+      "same": 2.5,
+      "rev": 1.5,
+      "metrics": {
+        "alpha": 11.77,
+        "total_r": 35.117,
+        "sharpe": 0.621,
+        "mdd": -11.932,
+        "n_trades": 21,
+        "long_pct": 15.2
+      }
+    },
+    "old_asym_metrics": {
+      "alpha": 3.896,
+      "total_r": 27.244,
+      "sharpe": 0.513,
+      "mdd": -12.912,
+      "n_trades": 39,
+      "long_pct": 17.7
+    },
+    "old_asym_c_metrics": {
+      "alpha": 11.77,
+      "total_r": 35.117,
+      "sharpe": 0.621,
+      "mdd": -11.932,
+      "n_trades": 21,
+      "long_pct": 15.2
+    }
+  },
+  "深证100ETF": {
+    "old": {
+      "same": 3.0,
+      "rev": 2.0
+    },
+    "best_asym": {
+      "same": 3.0,
+      "rev": 2.0,
+      "metrics": {
+        "alpha": 43.07,
+        "total_r": 62.418,
+        "sharpe": 1.273,
+        "mdd": -10.428,
+        "n_trades": 27,
+        "long_pct": 16.8
+      }
+    },
+    "best_asym_c": {
+      "same": 3.0,
+      "rev": 2.0,
+      "metrics": {
+        "alpha": 35.898,
+        "total_r": 55.245,
+        "sharpe": 1.189,
+        "mdd": -9.976,
+        "n_trades": 11,
+        "long_pct": 14.6
+      }
+    },
+    "old_asym_metrics": {
+      "alpha": 43.07,
+      "total_r": 62.418,
+      "sharpe": 1.273,
+      "mdd": -10.428,
+      "n_trades": 27,
+      "long_pct": 16.8
+    },
+    "old_asym_c_metrics": {
+      "alpha": 35.898,
+      "total_r": 55.245,
+      "sharpe": 1.189,
+      "mdd": -9.976,
+      "n_trades": 11,
+      "long_pct": 14.6
+    }
+  },
+  "创业板ETF": {
+    "old": {
+      "same": 4.0,
+      "rev": 1.0
+    },
+    "best_asym": {
+      "same": 4.0,
+      "rev": 1.0,
+      "metrics": {
+        "alpha": -29.155,
+        "total_r": 19.364,
+        "sharpe": 0.399,
+        "mdd": -17.727,
+        "n_trades": 37,
+        "long_pct": 17.1
+      }
+    },
+    "best_asym_c": {
+      "same": 1.25,
+      "rev": 2.5,
+      "metrics": {
+        "alpha": -34.874,
+        "total_r": 13.646,
+        "sharpe": 0.309,
+        "mdd": -20.747,
+        "n_trades": 25,
+        "long_pct": 36.4
+      }
+    },
+    "old_asym_metrics": {
+      "alpha": -29.155,
+      "total_r": 19.364,
+      "sharpe": 0.399,
+      "mdd": -17.727,
+      "n_trades": 37,
+      "long_pct": 17.1
+    },
+    "old_asym_c_metrics": {
+      "alpha": -38.237,
+      "total_r": 10.283,
+      "sharpe": 0.267,
+      "mdd": -17.727,
+      "n_trades": 27,
+      "long_pct": 15.6
+    }
+  }
+}
